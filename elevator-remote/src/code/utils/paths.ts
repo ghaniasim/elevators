@@ -1,0 +1,1 @@
+export const defaultPaths = 'http://localhost:8080';

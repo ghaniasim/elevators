@@ -1,0 +1,1 @@
+export { defaultPaths as BASE_API_URL } from "./paths";
